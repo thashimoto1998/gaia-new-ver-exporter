@@ -1,4 +1,4 @@
-module github.com/thashimoto1998/gaia-new-ver-exportor
+module github.com/thashimoto1998/gaia-new-ver-exporter
 
 go 1.21.3
 
